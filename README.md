@@ -6,11 +6,14 @@
 
 [![Say Thanks](https://img.shields.io/badge/Say-Thanks-blue.svg)](https://saythanks.io/to/xypnox) [![](https://img.shields.io/badge/license-cc0-green)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-The modern font made by someone who has no real knowledge of typography and font design. The font was made because I had to make it. No other reason springs to my mind.
+The modern font made as an experiment to study typography and font design. 
+The font was made because I had to make it. No other reason springs to my mind.
 
 The font is what I would consider a geometric beauty with a little bit of attitude.
 
 The font was derived from [Aileron](https://dotcolon.net/font/aileron/).
+
+The major changes are using geometric shapes instead of the standard oval ones.
 
 ---
 
